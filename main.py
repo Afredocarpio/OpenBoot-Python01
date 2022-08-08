@@ -5,9 +5,3 @@ estatura = int(input(' Por favor ingrese su Estatura en Centimetros: '))
 imc = float(peso //((estatura/100)**2))
 
 print (nombre.capitalize(), 'su Indice de masa corporal es: '+ str(imc))
-
-
-
-
-
-
